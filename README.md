@@ -23,7 +23,7 @@ Installation
 You have the choice between 3 methods:
 
 1. Install the plugin from the Kanboard plugin manager in one click (not yet)
-2. Download the zip file and decompress everything under the directory `plugins/Subtasktextfield`
+2. Download the zip file and decompress everything under the directory `plugins/SubtaskTextfield`
 3. Clone this repository into the folder `plugins/Subtasktextfield`
 
 Note: Plugin folder is case-sensitive.
